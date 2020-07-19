@@ -8,9 +8,9 @@
 
 *Thank [SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) for awesome hosts.*
 
-**For Windows OS**: 🎉 coming soon
+**for Windows OS**: 🎉 coming soon
 
-## Usage
+## usage
 
 Easy to use. Just open the Terminal window and enter some commands.
 
