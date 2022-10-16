@@ -13,4 +13,4 @@ file = open(path, "wt")
 file.write(data)
 file.close()
 
-print("uninstall free-spotify successfully")
+print("Uninstall free-spotify successfully")
